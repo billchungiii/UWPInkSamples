@@ -30,7 +30,6 @@ namespace App2
         private void MyInkControl_Recognized(object sender, string e)
         {
             ResultText.Text += e;
-
         }
     }
 }
